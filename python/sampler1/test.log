@@ -1,0 +1,3 @@
+[INFO 03/Nov/2015 20:02:56 moduleb.test2 @ 21936 (test2.py:9)] - test2
+[DEBUG 03/Nov/2015 20:02:56 moduleb.test2 @ 21936 (test2.py:10)] - test2
+[ERROR 03/Nov/2015 20:02:56 moduleb.test2 @ 21936 (test2.py:11)] - test2

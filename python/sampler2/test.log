@@ -1,0 +1,10 @@
+[INFO 2015-10-22 21:07:28,137 root @ 26218 (test.py:10)] - test
+[DEBUG 2015-10-22 21:07:28,137 root @ 26218 (test.py:11)] - test
+[ERROR 2015-10-22 21:07:28,137 root @ 26218 (test.py:12)] - test
+[INFO 2015-10-22 21:07:28,137 aaa @ 26218 (test1.py:9)] - logger test1
+[DEBUG 2015-10-22 21:07:28,137 aaa @ 26218 (test1.py:10)] - logger test1
+[ERROR 2015-10-22 21:07:28,137 aaa @ 26218 (test1.py:11)] - logger test1
+[INFO 2015-10-22 21:07:28,137 root @ 26218 (test1.py:12)] - root test1
+[INFO 2015-10-22 21:07:28,137 aaa @ 26218 (test2.py:8)] - test2
+[DEBUG 2015-10-22 21:07:28,138 aaa @ 26218 (test2.py:9)] - test2
+[ERROR 2015-10-22 21:07:28,138 aaa @ 26218 (test2.py:10)] - test2
